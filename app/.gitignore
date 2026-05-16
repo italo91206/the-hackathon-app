@@ -1,0 +1,15 @@
+# Nuxt
+.nuxt
+.output
+.data
+.env
+.cache
+dist
+
+# DB files
+db/*.sqlite3
+
+# Node
+node_modules
+.DS_Store
+*.log
